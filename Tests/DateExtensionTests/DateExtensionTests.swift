@@ -1,6 +1,6 @@
     import XCTest
-    @testable import Date_Extension
+    @testable import DateExtension
 
-    final class Date_ExtensionTests: XCTestCase {
+    final class DateExtensionTests: XCTestCase {
         
     }
