@@ -23,7 +23,7 @@ import Foundation
 
 // MARK: - Date
 
-extension Date {
+public extension Date {
     
     var readable: String {
         let formatter = DateFormatter()
